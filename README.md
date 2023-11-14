@@ -33,11 +33,6 @@ Welcome to my GitHub repository! If you've landed here, you're about to embark o
 ![Oracle-SQL-Developer](https://github.com/gioves28/gioves28/assets/131261225/6ccb0778-e642-4f9c-98d9-078d6df6bc2b)
 ![1*nNTk-j2uaKhxyj3GXsYNdg](https://github.com/gioves28/gioves28/assets/131261225/10d486a1-06ac-4e11-a742-801ada90d765)
 ![d3c7b91a-b285-4d1e-8429-5de1acc5f61e](https://github.com/gioves28/gioves28/assets/131261225/e4e29363-9cba-4a1e-965b-9e8d0ff8a092)
-![st,small,507x507-pad,600x600,f8f8f8](https://github.com/gioves28/gioves28/assets/131261225/92509c70-c589-4ac3-9009-9ce8444cc0e9)
-
-
-
-
 
 ---
 
